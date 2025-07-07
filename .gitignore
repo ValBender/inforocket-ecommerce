@@ -1,0 +1,16 @@
+# Arquivos de configuração
+config.php
+secrets.php
+
+# Logs
+*.log
+
+# Cache
+cache/
+
+# Uploads temporários
+uploads/temp/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
