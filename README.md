@@ -125,8 +125,8 @@ InfoRocket/
 ## 👤 Credenciais de Teste
 
 ### **Administrador**
-- **Usuário:** Joao
-- **Email:** joao.monge13@gmail.com
+- **Usuário:** adm
+- **Email:** teste@teste.com
 - **Senha:** password
 
 ## 📊 Funcionalidades Detalhadas
